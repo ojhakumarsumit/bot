@@ -1,0 +1,15 @@
+amazon:
+  access:
+    key: A*****************A
+    secret-key: f*************************R
+  region: us-east-2
+  end-point:
+    url: http://localhost:8000/
+
+twilio:
+   accountSid: A*****************************4
+   authToken:  9*****************************0
+   contact: whatsapp:+141*******6
+
+covid:
+  api: https://api.covid19api.com/summary
